@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://media.istockphoto.com/photos/round-podium-picture-id1306505925?b=1&k=20&m=1306505925&s=170667a&w=0&h=BSkYGhS2ve7im_CkK2a2-OFxMX5tJs1Ub0E77QY8eHI=");
+    background-size: 100%;
+    text-align: center;
+    color: white;
+}
+.login_div1 , .login_div2
+	{
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+    #player1_login , #player2_login
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#output
+	{
+		background-color: white;
+		padding: 10px;
+		float: none;
+		border-radius: 10px;
+		border-top: 10px solid #AA4465;
+		text-align: left;
+	}
